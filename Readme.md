@@ -3,8 +3,8 @@
 ## corona_visualization_project
 
 <p align="center">
-    <img src="https://github.com/kaminion/corona_visualization/blob/master/data/img/lineplot.png"/>
-    <img src="https://github.com/kaminion/corona_visualization/blob/master/data/img/pandas_gradient.PNG"/>
+    <img src="https://github.com/kaminion/corona_visualization/blob/master/data/img/lineplot.png" width="300"/>
+    <img src="https://github.com/kaminion/corona_visualization/blob/master/data/img/pandas_gradient.PNG" width="300"/>
 </p>
 
 # 설명
