@@ -2,6 +2,11 @@
 
 ## corona_visualization_project
 
+<p align="center">
+    <img src="https://github.com/kaminion/corona_visualization/blob/master/data/img/lineplot.png"/>
+    <img src="https://github.com/kaminion/corona_visualization/blob/master/data/img/pandas_gradient.PNG"/>
+</p>
+
 # 설명
 - 코로나 확진자수, 회복자수, 사망자수를 시각화한 애플리케이션
 - 
